@@ -1,2 +1,0 @@
-# BugTrackerJHipster
-Test jhipster
